@@ -1,7 +1,7 @@
 {
-  "name": "react-slingshot",
+  "name": "react-slingshot-material-ui",
   "version": "7.0.1",
-  "description": "Starter kit for creating apps with React and Redux",
+  "description": "Starter kit for creating apps with Material UI, React and Redux.  Based on repo from Cory House",
   "engines": {
     "npm": ">=3"
   },
@@ -28,7 +28,7 @@
     "open:cover": "npm run test:cover && opn ./coverage/lcov-report/index.html",
     "analyze-bundle": "babel-node ./tools/analyzeBundle.js"
   },
-  "author": "Cory House",
+  "author": "Cory House, Jeff Winkler",
   "license": "MIT",
   "dependencies": {
     "material-ui": "0.20.0",
